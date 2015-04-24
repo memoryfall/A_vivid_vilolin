@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Violin</string>
+    <string name="hello_world">Hello choose one to start！!</string>
+    <string name="learn_more">关于我们~</string>
+    <string name="title_activity_game_on">Game_onActivity</string>
+    <string name="title_activity_about">About_Activity</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="title_activity_freeplay">FreeplayActivity</string>
+    <string name="title_activity_enjoy">EnjoyActivity</string>
+
+</resources>
